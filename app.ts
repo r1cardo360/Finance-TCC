@@ -1,5 +1,5 @@
 import express from 'express';
-import userRoutes from './routes/authRoutes';
+import userRoutes from './routes/usuaraiosRoutes';
 import dotenv from 'dotenv';
 
 dotenv.config();
